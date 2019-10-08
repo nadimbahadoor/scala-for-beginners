@@ -83,3 +83,6 @@ I have always supported the Scala [Code of Conduct](https://www.scala-lang.org/c
 I hope you've enjoyed our tutorials at [http://allaboutscala.com](http://allaboutscala.com), and will equally explore and continue your Scala journey with me through this book. So thank you very much for your time.  
 
 If you spot any silly typos, or errata, or just want to say "*Hi!*" - I can be reached at [http://allaboutscala.com/contact/](http://allaboutscala.com/contact/). For general purpose Scala questions though, I always recommend posting a **comment** under the respective topic at [http://allaboutscala.com](http://allaboutscala.com) for the benefit of the wider Scala community.  
+
+# License
+Apache 2.0 License - see the LICENSE.TXT file 
